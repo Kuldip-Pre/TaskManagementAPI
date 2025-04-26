@@ -5,7 +5,9 @@ You can watch the project walkthrough video [here]([https://drive.google.com/you
 or here
 https://www.loom.com/share/41c0b94da185453c9e609a7bc1200a3f?sid=57df0eb8-fb4c-4fef-b4e7-4cc61e501326
 
-## Assessment Task 2,3 Pdf Documentation Link [here](https://drive.google.com/file/d/11s1N3AmxlwysxY3IEPisJqtZxp4ATgxD/view?usp=sharing)
+## Assessment Task 2,3 Pdf Documentation Link [here][(https://drive.google.com/file/d/11s1N3AmxlwysxY3IEPisJqtZxp4ATgxD/view?usp=sharing)]
+
+## Assessment Task 5 Pdf Documentation Link [here][(https://drive.google.com/file/d/1zA2H44nU3KU9xxRyXo2EAGTxhH31NHq-/view?usp=sharing)]
 
 🚀 Features
 User authentication with token-based security (JWT)
